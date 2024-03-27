@@ -5,7 +5,8 @@
       "export_paths": [
         [
           "xtensa-esp-elf-gdb",
-          "bin"
+          "bin",
+          "lib"
         ]
       ],
       "export_vars": {},
